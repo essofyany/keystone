@@ -1,5 +1,13 @@
 # @keystone-6/core
 
+## 1.0.2
+
+### Patch Changes
+
+- [#7218](https://github.com/keystonejs/keystone/pull/7218) [`4f3d0a073`](https://github.com/keystonejs/keystone/commit/4f3d0a073dba50f22505af545402a2f1e38afe0d) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Fixed cards view in the relationship field not showing up for many relationships in the create view
+
+* [#7221](https://github.com/keystonejs/keystone/pull/7221) [`6cea02475`](https://github.com/keystonejs/keystone/commit/6cea02475b02528e5f04f0a5bca641367ca1584d) Thanks [@gwyneplaine](https://github.com/gwyneplaine)! - Improved how stacking contexts are organised in the Admin UI
+
 ## 1.0.1
 
 ### Patch Changes
@@ -62,6 +70,7 @@
 - [#7005](https://github.com/keystonejs/keystone/pull/7005) [`fb7844ab5`](https://github.com/keystonejs/keystone/commit/fb7844ab50c1d4a6d14b2ad46a568665f6661921) Thanks [@gwyneplaine](https://github.com/gwyneplaine)! - Improve console output for when you need to restart the server because of schema changes
 
 # @keystone-next/keystone
+
 ## 29.0.0
 
 ### Major Changes
